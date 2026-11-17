@@ -3,4 +3,4 @@ backend/venv/
 backend/__pycache__/
 backend/data/
 *.pyc
-*.db
+*.db.pytest_cache/
